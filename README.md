@@ -1,2 +1,2 @@
 # satya-project1
-first project
+mini project
